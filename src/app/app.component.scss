@@ -1,0 +1,31 @@
+header{
+  span{
+    color:#FFF;
+    font-size: 1.5rem;
+    position: fixed;
+    top: 1.5rem;
+    left: 10rem;
+  }
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid #00d6ff;
+}
+
+body{
+  display: flex;
+}
+
+.option{
+  width: 4rem;
+  height: 4rem;
+  background-color: #00d6ff;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 3rem;
+  margin: 0.5rem;
+}
+
+.content{
+  background-color: antiquewhite;
+  width: 100%;
+  height: 85vh;
+}
